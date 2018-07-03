@@ -1,0 +1,48 @@
+[
+  {
+      "id": 1,
+      "name": "Username",
+      "username": "test1",
+      "email": "Sincere@test1.com",
+      "address": {
+          "street": "test1",
+          "suite": "test1 556",
+          "city": "test1",
+          "zipcode": "06000",
+          "geo": {
+              "lat": "-37.5159",
+              "lng": "81.3496"
+          }
+      },
+      "phone": "1-770-736-test1",
+      "website": "test1.org",
+      "company": {
+          "name": "Romaguera-test1",
+          "catchPhrase": "Test1",
+          "bs": "test1"
+      }
+  },
+  {
+      "id": 2,
+      "name": "test2",
+      "username": "test2",
+      "email": "Shanna@test2.tv",
+      "address": {
+          "street": "test2",
+          "suite": "test2",
+          "city": "test2",
+          "zipcode": "90566-test2",
+          "geo": {
+              "lat": "-43.7509",
+              "lng": "-34.4518"
+          }
+      },
+      "phone": "010-692-test2",
+      "website": "test2.net",
+      "company": {
+          "name": "test2",
+          "catchPhrase": "test2",
+          "bs": "test2"
+      }
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "node_servers",
+  "version": "1.0.0",
+  "description": "This is an exaple to test multiple environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "multiple",
+    "environments"
+  ],
+  "author": "minsau",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
